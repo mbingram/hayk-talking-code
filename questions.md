@@ -1,68 +1,68 @@
-## What does it mean for a method to "return" a value?
+## What does it mean for a method to "return" a value? (Jack Hubert)
 
-## What is the difference between a procedure, a function, and a method?
+## What is the difference between a procedure, a function, and a method? (Arielle Ross)
 
-## What's the difference between a hash and an array?
+## What's the difference between a hash and an array? (Gerald Bivens)
 
-## What's the difference between a hash and an object?
+## What's the difference between a hash and an object? (Grant Hesketh)
 
-## When should you use map? Select? Reduce? Find?
+## When should you use map? Select? Reduce? Find? (Jeff Golden)
 
-## What's the difference between a class and an instance of a class?
+## What's the difference between a class and an instance of a class? (Mary Beth Ingram)
 
-## What's the difference between an instance method and a class method?
+## What's the difference between an instance method and a class method? (Brett Needham) 
 
-## What is a gem? Gemfile? Gemfile.lock?
+## What is a gem? Gemfile? Gemfile.lock? (Kat Leight)
 
-## What is a one to many relationship? Many to many?
+## What is a one to many relationship? Many to many? (Colton O'Connor)
 
-## How does a database relate 2 tables?
+## How does a database relate 2 tables? (Luke Thinnes)
 
-## What does "single source of truth" mean in terms of related objects?
+## What does "single source of truth" mean in terms of related objects? (Ryan Choe)
 
-## What is the purpose of the environment.rb file?
+## What is the purpose of the environment.rb file? (Jack Hubert)
 
-## What does an ORM do?
+## What does an ORM do? (Arielle Ross)
 
-## What is an API?
+## What is an API? (Gerald Bivens)
 
-## What is semantic HTML?
+## What is semantic HTML? (Grant Hesketh)
 
-## What is the DOM?
+## What is the DOM? (Jeff Golden)
 
-## Describe the HTTP Request/Response cycle
+## Describe the HTTP Request/Response cycle (Mary Beth Ingram)
 
-## What's the difference between the web and the internet?
+## What's the difference between the web and the internet? (Brett Needham) 
 
-## What is a computer virus?
+## What is a computer virus? (Kat Leight)
 
-## What is validation, where can it occur, and what purpose does it serve?
+## What is validation, where can it occur, and what purpose does it serve? (Colton O'Connor)
 
-## What is an event?
+## What is an event? (Luke Thinnes)
 
-## What is event bubbling?
+## What is event bubbling? (Ryan Choe)
 
-## What is referential transparency?
+## What is referential transparency? (Jack Hubert)
 
-## What are the 4 pillars of OOP?
+## What are the 4 pillars of OOP? (Arielle Ross)
 
-## What are some tenets of functional programming?
+## What are some tenets of functional programming? (Gerald Bivens)
 
-## What's the difference between authentication and authorization?
+## What's the difference between authentication and authorization? (Grant Hesketh)
 
-## How do you avoid storing plain-text passwords?
+## How do you avoid storing plain-text passwords? (Jeff Golden)
 
-## What is serialization?
+## What is serialization? (Mary Beth Ingram)
 
-## Describe the MVC architecture pattern
+## Describe the MVC architecture pattern (Brett Needham) 
 
-## What is Big O?
+## What is Big O? (Kat Leight)
 
-## What is a closure?
+## What is a closure? (Colton O'Connor)
 
-## What is CORS?
+## What is CORS? (Luke Thinnes)
 
-## What's the semantic difference between PUT and PATCH?
+## What's the semantic difference between PUT and PATCH? (Ryan Choe)
 
 ## What is DRY?
 
